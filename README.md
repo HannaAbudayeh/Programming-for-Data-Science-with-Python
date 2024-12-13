@@ -26,11 +26,10 @@ The following data files are required to run the program:
 washington.csv<br>
 new_york_city.csv<br>
 chicago.csv<br>
-You can download the files here.
 
 # Requirements
 This program is written in Python (version 3.6.3 or later) and depends on the following libraries:
 
-pandas==0.23.3
-numpy==1.12.1
-os (standard Python library)
+pandas==0.23.3 <br>
+numpy==1.12.1 <br>
+os (standard Python library)<br>
