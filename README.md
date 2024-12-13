@@ -23,9 +23,9 @@ The CLI program provides an engaging interactive experience for users to explore
 # Files Used
 The following data files are required to run the program:
 
-washington.csv
-new_york_city.csv
-chicago.csv
+washington.csv<br>
+new_york_city.csv<br>
+chicago.csv<br>
 You can download the files here.
 
 # Requirements
