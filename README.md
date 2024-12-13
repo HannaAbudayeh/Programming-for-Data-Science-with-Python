@@ -15,7 +15,9 @@ The program enables users to:
 Import and filter the data by city, month, and weekday.
 Compute descriptive statistics, such as the most common times of travel, popular stations, trip durations, and user demographics.
 Display raw data in the terminal, with options to sort the data by columns in ascending or descending order.
+
 Project Submission
+
 The CLI program provides an engaging interactive experience for users to explore the bikeshare data. Users can dynamically filter the data and view relevant statistics or raw data. The program ensures flexibility by supporting multiple input options and sorting functionality for raw data display.
 
 # Files Used
