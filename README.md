@@ -20,14 +20,14 @@ Project Submission
 
 The CLI program provides an engaging interactive experience for users to explore the bikeshare data. Users can dynamically filter the data and view relevant statistics or raw data. The program ensures flexibility by supporting multiple input options and sorting functionality for raw data display.
 
-# Files Used
+## Files Used
 The following data files are required to run the program:
 
 washington.csv<br>
 new_york_city.csv<br>
 chicago.csv<br>
 
-# Requirements
+## Requirements
 This program is written in Python (version 3.6.3 or later) and depends on the following libraries:
 
 pandas==0.23.3 <br>
